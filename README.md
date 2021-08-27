@@ -117,12 +117,52 @@ All the logic gates are created from the primitive Nand gate. Here are a list of
 - [DMux8Way16](./projects/01/DMux8Way16.hdl)
 
 
-<h2>Project 1: Gates</h2>
-<br>
-<ul>
-  <li>Primary Logic Gates</li>
-</ul>
-<br>
+## ALU
+This ALU can compute eighteen functions using some minimal hardware design. It uses 6 control bits where each bit refers to a certain elementary operation.
 
-<img src="https://www.cloudsavvyit.com/p/uploads/2021/05/22e2d43d.png?width=1198&trim=1,1&bg-color=000&pad=1,1" alt="Primary Gates" width="300">
+|control-bit|description|
+|---|---|
+|zx|zero the x input?|
+|nx|negate the x input?|
+|zy|zero the y input?|
+|ny|negate the y input?|
+|f|compute x+y (if 1) or x&y (if 0)|
+|no|negate the output?|
+
+The following functions can be computed with the control bits as follows:
+
+#|zx|nx|zy|ny|f|no|f(x,y)
+---|---|---|---|---|---|---|---
+1|1|0|1|0|1|0|0
+2|1|1|1|1|1|1|1
+3|1|1|1|0|1|0|-1
+4|0|0|1|1|0|0|x
+5|1|1|0|0|0|0|y
+6|0|0|1|1|0|1|!x
+7|1|1|0|0|0|1|!y
+8|0|0|1|1|1|1|-x
+9|1|1|0|0|1|1|-y
+10|0|1|1|1|1|1|x+1
+11|1|1|0|1|1|1|y+1
+12|0|0|1|1|1|0|x-1
+13|1|1|0|0|1|0|y-1
+14|0|0|0|0|1|0|x+y
+15|0|1|0|0|1|1|x-y
+16|0|0|0|1|1|1|y-x
+17|0|0|0|0|0|0|x&y
+18|0|1|0|1|0|1|x\|y
+
+The ALU also produces two status bits with the output.
+
+|status-bit|description|
+|---|---|
+|zr|is the output zero?|
+|ng|is the output negative?|
+
+The following chips were implemented in this section
+* [HalfAdder](./projects/02/HalfAdder.hdl), [FullAdder](./projects/02/FullAdder.hdl)
+* [Add16](./projects/02/Add16.hdl), [Inc16](./projects/02/Inc16.hdl)
+* [ALU](./projects/02/ALU.hdl)
+
+**Future work**: It will be better to replace the naive ripple carry adder in Add16 with a more efficient one like a carry-lookahead adder.
 
