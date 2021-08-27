@@ -6,11 +6,13 @@ Working my way through the <a name="" href="https://www.nand2tetris.org/">Nand2T
 <br>
 <br>
 <h2>Project Outcome</h2>
-Bare bones hardware - The _Hack_ computer
-Assembly language - The _Hack_ assembly
-Virtual machine - The _Jack Virtual Machine_ (JVM)
-High level language - The _Jack_ programming language
-Operating System - The _Jack_ OS
+<ol type="1">
+  <li>Bare bones hardware - The _Hack_ computer</li>
+  <li>Assembly language - The _Hack_ assembly</li>
+  <li>Virtual machine - The _Jack Virtual Machine_ (JVM)</li>
+  <li>High level language - The _Jack_ programming language</li>
+  <li>Operating System - The _Jack_ OS</li>
+</ol> 
 <br>
 
 <h2>Project 1: Gates</h2>
