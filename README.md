@@ -5,8 +5,8 @@ This project is from the course [nand2tetris](https://www.nand2tetris.org/). Fro
 
 <img src="https://static.wixstatic.com/media/44046b_387f62dae530480dac9b1fa8f731bebf~mv2.png/v1/fill/w_415,h_144,al_c,q_85,usm_0.66_1.00_0.01/44046b_387f62dae530480dac9b1fa8f731bebf~mv2.webp" alt="Nand2Tetris image">
 <center><text>Building a Modern Computer From First Principles.</text></center>
-<br>
-<br>
+
+
 <h2>Project Outcome</h2>
 <ol type="1">
   <li>Bare bones hardware - The _Hack_ computer</li>
@@ -15,7 +15,7 @@ This project is from the course [nand2tetris](https://www.nand2tetris.org/). Fro
   <li>High level language - The _Jack_ programming language</li>
   <li>Operating System - The _Jack_ OS</li>
 </ol> 
-<br>
+
 
 ## Table of Contents
 1. [Hardware](#hardware) 
@@ -39,6 +39,7 @@ This project is from the course [nand2tetris](https://www.nand2tetris.org/). Fro
 	- [Syntax Analysis](#syntax-analysis)
 	- [Code Generation](#code-generation)
 7. [Operating System](#operating-system)
+
 
 <h2>Project 1: Gates</h2>
 <br>
