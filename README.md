@@ -7,7 +7,7 @@ Working my way through the <a name="" href="https://www.nand2tetris.org/">Nand2T
 <br>
 
 
-Project 1: Gates
+<title>Project 1: Gates</title>
 <br>
 <br>
 <br>
