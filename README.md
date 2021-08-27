@@ -70,7 +70,7 @@ All the logic gates are created from the primitive Nand gate. Here are a list of
 		</td>
 		<td>
 		</td>
-		<td>
+		<td><img src="https://github.com/RakibRyan/Nand2Tetris/blob/main/images/and.png" width="30">
 		</td>
 		<td>
 		</td>
