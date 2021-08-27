@@ -92,8 +92,8 @@ All the logic gates are created from the primitive Nand gate. Here are a list of
 		<th><a href="./projects/01/DMux.hdl">DMux</a></th>
 	</tr>
 	<tr>
-		<td><img src="https://github.com/RakibRyan/Nand2Tetris/blob/main/images/Mux.jpg" width="150"></td>
-		<td><img src="https://github.com/RakibRyan/Nand2Tetris/blob/main/images/DMux.jpg" width="150"></td>
+		<td><img src="https://github.com/RakibRyan/Nand2Tetris/blob/main/images/Mux.png" width="150"></td>
+		<td><img src="https://github.com/RakibRyan/Nand2Tetris/blob/main/images/DMux.png" width="150"></td>
 	</tr>
 		
 </table>
