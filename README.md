@@ -48,7 +48,7 @@ This section aims at building the bare-bones of the computer. We first make simp
 ## Logic Gates
 All the logic gates are created from the primitive Nand gate. Here are a list of gates that were implemented.
 
-##Primary
+## Primary
 <table>
 	<tr>
 		<th><a href="./projects/01/Nand2.hdl">Nand</a>
