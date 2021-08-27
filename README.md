@@ -98,6 +98,17 @@ All the logic gates are created from the primitive Nand gate. Here are a list of
 		
 </table>
 
+<table>
+	<tr>
+		
+	</tr>
+	<tr>
+		
+	</tr>
+		
+</table>
+
+
 - [Mux](./projects/01/Mux.hdl), [DMux](./projects/01/DMux.hdl)
 - [Not16](./projects/01/Not16.hdl), [And16](./projects/01/And16.hdl), [Or16](./projects/01/Or16.hdl), [Mux16](./projects/01/Mux16.hdl) - 16-bit wide gates
 - [Or8Way](./projects/01/Or8Way.hdl) - Or(x0,...,x7)
