@@ -1,0 +1,19 @@
+/**
+ * Nor gate: out = 1 when a==0 and b==0
+ * Get Or output for 'free' (1 additional NAND gate)
+ * Requires NOT (x2) and Nand (x3)
+ */
+
+CHIP Nor {
+    IN a,b;
+    OUT zout, out;
+
+    PARTS:
+    Not(in=a,out=na);
+    Nand(a=na,b=b,out=x);
+    //OR output
+    Nand(a=na,b=x,out=zout);
+    //copy, invert to get NOR
+    Nand(a=na,b=x,out=y);
+    Not(in=y,out=out);
+}
