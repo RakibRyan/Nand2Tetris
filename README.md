@@ -9,9 +9,10 @@ Working my way through the <a name="" href="https://www.nand2tetris.org/">Nand2T
 
 <h2>Project 1: Gates</h2>
 <br>
-<br>
 <ul>
   <li>Primary Logic Gates</li>
 </ul>
+<br>
+
 <img src="https://www.cloudsavvyit.com/p/uploads/2021/05/22e2d43d.png?width=1198&trim=1,1&bg-color=000&pad=1,1" alt="Primary Gates" width="300">
 
