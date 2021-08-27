@@ -6,5 +6,5 @@ Working my way through the <a name="" href="https://www.nand2tetris.org/">Nand2T
 
 Project 1: Gates
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cloudsavvyit.com%2F11147%2Fhow-logic-gates-work-or-and-xor-nor-nand-xnor-and-not%2F&psig=AOvVaw0YDGOGaLUKfE1l0oC4kFcm&ust=1630153964822000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDEjPOa0fICFQAAAAAdAAAAABAZ" alt="Primary Gates">
+<img src="https://www.cloudsavvyit.com/p/uploads/2021/05/22e2d43d.png?width=1198&trim=1,1&bg-color=000&pad=1,1" alt="Primary Gates">
 
