@@ -7,10 +7,10 @@ Working my way through the <a name="" href="https://www.nand2tetris.org/">Nand2T
 <br>
 ## Project Outcome
 1. Bare bones hardware - The _Hack_ computer
-2. Assembly language - The _Hack_ assembly
-3. Virtual machine - The _Jack Virtual Machine_ (JVM)
-4. High level language - The _Jack_ programming language
-5. Operating System - The _Jack_ OS
+2. 2. Assembly language - The _Hack_ assembly
+3. 3. Virtual machine - The _Jack Virtual Machine_ (JVM)
+4. 4. High level language - The _Jack_ programming language
+5. 5. Operating System - The _Jack_ OS
 <br>
 
 <h2>Project 1: Gates</h2>
