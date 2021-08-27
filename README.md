@@ -64,17 +64,19 @@ All the logic gates are created from the primitive Nand gate. Here are a list of
 		</th>
 	</tr>
 	<tr>
-		<td>
+		<td><img src="https://github.com/RakibRyan/Nand2Tetris/blob/main/images/nand.png" width="50">
 		</td>
-		<td>
+		<td><img src="https://github.com/RakibRyan/Nand2Tetris/blob/main/images/nor.png" width="50">
 		</td>
-		<td>
+		<td><img src="https://github.com/RakibRyan/Nand2Tetris/blob/main/images/not.png" width="50">
 		</td>
-		<td><img src="https://github.com/RakibRyan/Nand2Tetris/blob/main/images/and.png" width="30">
+		<td><img src="https://github.com/RakibRyan/Nand2Tetris/blob/main/images/and.png" width="50">
 		</td>
-		<td>
+		<td><img src="https://github.com/RakibRyan/Nand2Tetris/blob/main/images/or.png" width="50">
 		</td>
-		<td>
+		<td><img src="https://github.com/RakibRyan/Nand2Tetris/blob/main/images/xor.png" width="50">
+		</td>
+		<td><img src="https://github.com/RakibRyan/Nand2Tetris/blob/main/images/xnor.png" width="50">**
 		</td>
 	</tr>
 </table>
