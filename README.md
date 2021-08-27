@@ -54,7 +54,7 @@ All the logic gates are created from the primitive Nand gate. Here are a list of
 		</th>
 		<th>[Nor](./projects/01/Nor.hdl)
 		</th>
-		<th>
+		<th><a href="./projects/01/Not.hdl">Not</a>
 		</th>
 		<th>
 		</th>
