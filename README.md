@@ -93,7 +93,7 @@ All the logic gates are created from the primitive Nand gate. Here are a list of
 	</tr>
 	<tr>
 		<td><img src="https://github.com/RakibRyan/Nand2Tetris/blob/main/images/Mux.jpg" width="150"></td>
-		<td><img src="https://github.com/RakibRyan/Nand2Tetris/blob/main/images/DMux.jpg" width="250"><td>
+		<td><img src="https://github.com/RakibRyan/Nand2Tetris/blob/main/images/DMux.jpg" width="150"><td>
 	</tr>
 		
 </table>
