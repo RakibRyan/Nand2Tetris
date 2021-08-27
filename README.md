@@ -41,6 +41,13 @@ This project is from the course [nand2tetris](https://www.nand2tetris.org/). Fro
 7. [Operating System](#operating-system)
 
 
+# Hardware
+This section aims at building the bare-bones of the computer. We first make simple logic gates and then leverage them to further make more sophisticated hardware. The logic is written in a custom Hardware Description Language (HDL) specified [here](https://docs.wixstatic.com/ugd/44046b_2cc5aac034ae49f4bf1650a3d31df32c.pdf).
+
+
+## Logic Gates
+All the logic gates are created from the primitive Nand gate. Here are a list of gates that were implemented.
+
 <h2>Project 1: Gates</h2>
 <br>
 <ul>
