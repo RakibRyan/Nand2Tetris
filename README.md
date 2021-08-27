@@ -99,11 +99,22 @@ All the logic gates are created from the primitive Nand gate. Here are a list of
 </table>
 
 
+## 16-bit wide gates
 
-- [Mux](./projects/01/Mux.hdl), [DMux](./projects/01/DMux.hdl)
-- [Not16](./projects/01/Not16.hdl), [And16](./projects/01/And16.hdl), [Or16](./projects/01/Or16.hdl), [Mux16](./projects/01/Mux16.hdl) - 16-bit wide gates
-- [Or8Way](./projects/01/Or8Way.hdl) - Or(x0,...,x7)
-- [Mux4Way16](./projects/01/Mux4Way16.hdl), [Mux8Way16](./projects/01/Mux8Way16.hdl), [DMux4Way16](./projects/01/DMux4Way16.hdl), [DMux8Way16](./projects/01/DMux8Way16.hdl) - 16-bit wide with 4/8 inputs
+- [Not16](./projects/01/Not16.hdl)
+- [And16](./projects/01/And16.hdl)
+- [Or16](./projects/01/Or16.hdl) 
+- [Mux16](./projects/01/Mux16.hdl)
+
+## Or(x0,...,x7)
+
+- [Or8Way](./projects/01/Or8Way.hdl)
+
+## 16-bit wide with 4/8 inputs
+- [Mux4Way16](./projects/01/Mux4Way16.hdl) 
+- [Mux8Way16](./projects/01/Mux8Way16.hdl)
+- [DMux4Way16](./projects/01/DMux4Way16.hdl)
+- [DMux8Way16](./projects/01/DMux8Way16.hdl)
 
 
 <h2>Project 1: Gates</h2>
