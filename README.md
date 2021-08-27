@@ -166,4 +166,16 @@ The following chips were implemented in this section
 
 **Future work**: It will be better to replace the naive ripple carry adder in Add16 with a more efficient one like a carry-lookahead adder.
 
+
+## Registers, RAM and PC
+Storage is realized using Data Flip-Flops (DFFs). Registers are 16-bit wide and are composed of DFFs. These registers are further stacked to create the random access memory (RAM). It allows reading/writing data from/to any address in constant time, irrespective of the physical location.
+
+Finally, a program counter is also realized using a 16-bit register which has the following functions - reset to zero, load a particular value, and increment the current value.
+
+List of chips implemented
+* [Bit](./projects/03/a/Bit.hdl), [Register](./projects/03/a/Register.hdl)
+* [RAM8](./projects/03/a/RAM8.hdl), [RAM64](./projects/03/a/RAM64.hdl), [RAM512](./projects/03/b/RAM512.hdl), [RAM4K](./projects/03/b/RAM4K.hdl), [RAM16K](./projects/03/b/16K.hdl)
+* [PC](./projects/03/a/PC.hdl)
+
+
 https://github.com/shubham1172/nand2tetris/blob/master/README.md
