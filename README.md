@@ -5,7 +5,7 @@ This project is from the course [nand2tetris](https://www.nand2tetris.org/). Fro
 
 <img src="https://static.wixstatic.com/media/44046b_387f62dae530480dac9b1fa8f731bebf~mv2.png/v1/fill/w_415,h_144,al_c,q_85,usm_0.66_1.00_0.01/44046b_387f62dae530480dac9b1fa8f731bebf~mv2.webp" alt="Nand2Tetris image">
 <center><text>Building a Modern Computer From First Principles.</text></center>
-<img src="https://github.com/RakibRyan/Nand2Tetris/blob/main/images/and.png">
+
 
 <h2>Project Outcome</h2>
 <ol type="1">
@@ -48,8 +48,39 @@ This section aims at building the bare-bones of the computer. We first make simp
 ## Logic Gates
 All the logic gates are created from the primitive Nand gate. Here are a list of gates that were implemented.
 
+<table>
+	<tr>
+		<th>
+		</th>
+		<th>
+		</th>
+		<th>
+		</th>
+		<th>
+		</th>
+		<th>
+		</th>
+		<th>
+		</th>
+	</tr>
+	<tr>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+		<td>
+		</td>
+	</tr>
+</table>
 
-- [Nand](./projects/01/Nand2.hdl), [Not](./projects/01/Not.hdl), [And](./projects/01/And.hdl), [Or](./projects/01/Or.hdl), [Xor](./projects/01/Xor.hdl), [Xnor](./projects/01/Xnor.hdl)
+
+- [Nand](./projects/01/Nand2.hdl), [Nor](./projects/01/Nor.hdl), [Not](./projects/01/Not.hdl), [And](./projects/01/And.hdl), [Or](./projects/01/Or.hdl), [Xor](./projects/01/Xor.hdl), [Xnor](./projects/01/Xnor.hdl)
 - [Mux]((./projects/01/Mux.hdl)), [DMux](./projects/01/DMux.hdl)
 - [Not16](./projects/01/Not16.hdl), [And16](./projects/01/And16.hdl), [Or16](./projects/01/Or16.hdl), [Mux16](./projects/01/Mux16.hdl) - 16-bit wide gates
 - [Or8Way](./projects/01/Or8Way.hdl) - Or(x0,...,x7)
