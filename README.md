@@ -50,17 +50,19 @@ All the logic gates are created from the primitive Nand gate. Here are a list of
 
 <table>
 	<tr>
-		<th>[Nand](./projects/01/Nand2.hdl)
+		<th><a href="./projects/01/Nand2.hdl">Nand</a>
 		</th>
-		<th>[Nor](./projects/01/Nor.hdl)
+		<th><a href="./projects/01/Nor.hdl">Nor</a>
 		</th>
 		<th><a href="./projects/01/Not.hdl">Not</a>
 		</th>
-		<th>
+		<th><a href="./projects/01/And.hdl">And</a>
 		</th>
-		<th>
+		<th><a href="./projects/01/Or.hdl">Or</a>
 		</th>
-		<th>
+		<th><a href="./projects/01/Xor.hdl">Xor</a>
+		</th>
+		<th><a href="./projects/01/Xnor.hdl">Xnor</a>
 		</th>
 	</tr>
 	<tr>
