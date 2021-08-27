@@ -17,6 +17,29 @@ This project is from the course [nand2tetris](https://www.nand2tetris.org/). Fro
 </ol> 
 <br>
 
+## Table of Contents
+1. [Hardware](#hardware) 
+	- [Logic Gates](#logic-gates)
+	- [ALU](#alu)
+	- [Registers, RAM, and PC](#registers-ram-and-pc)
+2. [Architecture](#architecture)
+	- [Instruction Set](#instruction-set)
+		- [The A-instruction](#the-a-instruction)
+ 		- [The C-instruction](#the-c-instruction)
+	- [Memory](#memory)
+	- [CPU](#cpu)
+	- [Computer](#computer)
+4. [Assembler](#assembler)
+5. [Jack Virtual Machine](#jack-virtual-machine)
+	- [The Stack](#the-stack)
+	- [Program Control](#program-control)
+	- [JVM and Hack](#jvm-and-hack)
+6. [Compiler](#compiler)
+	- [High Level Language](#high-level-language)
+	- [Syntax Analysis](#syntax-analysis)
+	- [Code Generation](#code-generation)
+7. [Operating System](#operating-system)
+
 <h2>Project 1: Gates</h2>
 <br>
 <ul>
