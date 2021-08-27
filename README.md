@@ -5,7 +5,7 @@ This project is from the course [nand2tetris](https://www.nand2tetris.org/). Fro
 
 <img src="https://static.wixstatic.com/media/44046b_387f62dae530480dac9b1fa8f731bebf~mv2.png/v1/fill/w_415,h_144,al_c,q_85,usm_0.66_1.00_0.01/44046b_387f62dae530480dac9b1fa8f731bebf~mv2.webp" alt="Nand2Tetris image">
 <center><text>Building a Modern Computer From First Principles.</text></center>
-
+<img src="https://github.com/RakibRyan/Nand2Tetris/blob/main/images/and.png">
 
 <h2>Project Outcome</h2>
 <ol type="1">
