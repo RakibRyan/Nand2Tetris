@@ -5,10 +5,9 @@ Working my way through the <a name="" href="https://www.nand2tetris.org/">Nand2T
 <center><text>Building a Modern Computer From First Principles.</text></center>
 <br>
 <br>
-
-
-<title>Project 1: Gates</title>
 <br>
+
+<h2>Project 1: Gates</h2>
 <br>
 <br>
 <img src="https://www.cloudsavvyit.com/p/uploads/2021/05/22e2d43d.png?width=1198&trim=1,1&bg-color=000&pad=1,1" alt="Primary Gates" width="300">
