@@ -6,5 +6,5 @@ Working my way through the <a name="" href="https://www.nand2tetris.org/">Nand2T
 
 Project 1: Gates
 
-<img src="https://www.cloudsavvyit.com/p/uploads/2021/05/22e2d43d.png?width=1198&trim=1,1&bg-color=000&pad=1,1" alt="Primary Gates" height="300" width="300">
+<img src="https://www.cloudsavvyit.com/p/uploads/2021/05/22e2d43d.png?width=1198&trim=1,1&bg-color=000&pad=1,1" alt="Primary Gates" width="300">
 
