@@ -136,8 +136,6 @@ All the logic gates are created from the primitive Nand gate. Here are a list of
 	</tr>
 </table>	
 
-- [Mux8Way16](./projects/01/Mux8Way16.hdl)
-- [DMux8Way16](./projects/01/DMux8Way16.hdl)
 
 
 ## ALU
