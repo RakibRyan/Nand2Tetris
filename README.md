@@ -111,11 +111,23 @@ All the logic gates are created from the primitive Nand gate. Here are a list of
 - [Or8Way](./projects/01/Or8Way.hdl)
 
 ## 16-bit wide with 4/8 inputs
-- [Mux4Way16](./projects/01/Mux4Way16.hdl) 
-<img src="./images/Mux4way.png">
+
+<table>
+	<tr>
+		<th><a href="./projects/01/Mux4Way16.hdl">Mux4Way16</a>
+		</th>
+		<th><a href="./projects/01/DMux4Way16.hdl">DMux4Way16</a>
+		</th>
+	</tr>
+	<tr>
+		<td><img src="./images/Mux4way.png">
+		</td>
+		<td><img src="./images/DMux4way.png">
+		</td>
+	</tr>
+</table>	
+
 - [Mux8Way16](./projects/01/Mux8Way16.hdl)
-- [DMux4Way16](./projects/01/DMux4Way16.hdl)
-<img src="./images/DMux4way.png">
 - [DMux8Way16](./projects/01/DMux8Way16.hdl)
 
 
