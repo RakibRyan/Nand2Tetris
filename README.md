@@ -88,9 +88,9 @@ All the logic gates are created from the primitive Nand gate. Here are a list of
 
 <table>
 	<tr>
-		<th>
+		<th><th><a href="./projects/01/Mux.hdl">Mux</a></th>
 		</th>
-		<th>
+		<th><th><a href="./projects/01/DMux.hdl">DMux</a></th>
 		</th>
 	</tr>
 	<tr>
