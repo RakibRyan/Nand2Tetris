@@ -100,6 +100,7 @@ All the logic gates are created from the primitive Nand gate. Here are a list of
 </table>
 
 
+
 ## 16-bit wide gates
 
 - [Not16](./projects/01/Not16.hdl)
