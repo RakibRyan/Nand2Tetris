@@ -120,7 +120,7 @@ All the logic gates are created from the primitive Nand gate. Here are a list of
 ## ALU
 This ALU can compute eighteen functions using some minimal hardware design. It uses 6 control bits where each bit refers to a certain elementary operation.
 
-<img src="./images/alu.png" width="300">
+<img src="./images/alu.png" width="320">
 
 |control-bit|description|
 |---|---|
