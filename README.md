@@ -90,6 +90,7 @@ All the logic gates are created from the primitive Nand gate. Here are a list of
 	<tr>
 		<th><a href="./projects/01/Mux.hdl">Mux</a></th>
 		<th><a href="./projects/01/DMux.hdl">DMux</a></th>
+		
 	</tr>
 	<tr>
 		<td><img src="https://github.com/RakibRyan/Nand2Tetris/blob/main/images/Mux.png" width="150"></td>
@@ -118,11 +119,19 @@ All the logic gates are created from the primitive Nand gate. Here are a list of
 		</th>
 		<th><a href="./projects/01/DMux4Way16.hdl">DMux4Way16</a>
 		</th>
+		<th><a href="./projects/01/DMux4Way16.hdl">Mux8Way16</a>
+		</th>
+		<th><a href="./projects/01/DMux4Way16.hdl">DMux8Way16</a>
+		</th>
 	</tr>
 	<tr>
 		<td><img src="./images/Mux4way.png" width="100">
 		</td>
 		<td><img src="./images/DMux4way.png" width="100">
+		</td>
+		<td><img src="./images/Mux8way.png" width="100">
+		</td>
+		<td><img src="./images/DMux8way.png" width="100">
 		</td>
 	</tr>
 </table>	
