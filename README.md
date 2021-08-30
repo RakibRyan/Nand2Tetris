@@ -86,6 +86,7 @@ All the logic gates are created from the primitive Nand gate. Here are a list of
 
 ## Advanced
 
+
 <table>
 	<tr>
 		<th><a href="./projects/01/Mux.hdl">Mux</a></th>
@@ -114,7 +115,7 @@ All the logic gates are created from the primitive Nand gate. Here are a list of
 
 ## 16-bit wide with 4/8 inputs
 
-< table>
+table>
 	<tr>
 		<th><a href="./projects/01/Mux4Way16.hdl">Mux4Way16</a>
 		</th>
