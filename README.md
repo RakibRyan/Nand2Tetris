@@ -120,9 +120,9 @@ All the logic gates are created from the primitive Nand gate. Here are a list of
 		</th>
 	</tr>
 	<tr>
-		<td><img src="./images/Mux4way.png">
+		<td><img src="./images/Mux4way.png" width="100">
 		</td>
-		<td><img src="./images/DMux4way.png">
+		<td><img src="./images/DMux4way.png" width="100">
 		</td>
 	</tr>
 </table>	
