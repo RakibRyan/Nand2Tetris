@@ -88,6 +88,10 @@ All the logic gates are created from the primitive Nand gate. Here are a list of
 
 <table>
 	<tr>
+		<th>
+		</th>
+		<th>
+		</th>
 	</tr>
 	<tr>
 	</tr>
