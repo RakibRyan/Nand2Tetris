@@ -199,4 +199,3 @@ List of chips implemented
 * [PC](./projects/03/a/PC.hdl)
 
 
-https://github.com/shubham1172/nand2tetris/blob/master/README.md
