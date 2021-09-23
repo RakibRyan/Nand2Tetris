@@ -273,5 +273,13 @@ The data memory is laid out with the RAM in the upper section, followed by IO me
 
 Implementation: [Memory Chip](./projects/05/Memory.hdl).
 
+## CPU
+The CPU consists on the ALU, two registers A and D, and a program counter PC. It fetches the instruction from the instruction memory and decodes it using internal circuitry of logic. It then executes the instruction and writes back the data.
+![CPU](./images/Architecture.png)
+<br><center>src: [nand2tetris computer architecture](https://docs.wixstatic.com/ugd/44046b_552ed0898d5d491aabafd8a768a87c6f.pdf) </center>
+
+The control bits in the image above are labelled *c*. Different bits are routed to different parts of the CPU.
+
+Implementation: [CPU Chip](./projects/05/CPU.hdl).
 
 
